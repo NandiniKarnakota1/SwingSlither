@@ -48,7 +48,7 @@ The game features smooth snake movement, food generation, scoring, and collision
 2. Open the project in IntelliJ IDEA / Eclipse
 3. Run : GamePlayer.java
 
-📸 Screenshots
-
-
+📸 Screenshots:
+->gameplay.jpeg (Game play screen)
+->gameover.jpeg (Game over screen)
 
