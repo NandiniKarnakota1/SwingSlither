@@ -43,7 +43,7 @@ The game features smooth snake movement, food generation, scoring, and collision
 
 ## ▶️ How to Run
 
-1. Clone the repository:
+1. Clone the repository: <https://github.com/NandiniKarnakota1/SwingSlither.git>
 
 2. Open the project in IntelliJ IDEA / Eclipse
 3. Run : GamePlayer.java
